@@ -1,0 +1,15 @@
+D:\Рабочий столо\mydesktop\SB\OOP\OOP\bin\Debug\net6.0\OopExamples.exe
+D:\Рабочий столо\mydesktop\SB\OOP\OOP\bin\Debug\net6.0\OopExamples.deps.json
+D:\Рабочий столо\mydesktop\SB\OOP\OOP\bin\Debug\net6.0\OopExamples.runtimeconfig.json
+D:\Рабочий столо\mydesktop\SB\OOP\OOP\bin\Debug\net6.0\OopExamples.dll
+D:\Рабочий столо\mydesktop\SB\OOP\OOP\bin\Debug\net6.0\OopExamples.pdb
+D:\Рабочий столо\mydesktop\SB\OOP\OOP\obj\Debug\net6.0\OopExamples.csproj.AssemblyReference.cache
+D:\Рабочий столо\mydesktop\SB\OOP\OOP\obj\Debug\net6.0\OopExamples.GeneratedMSBuildEditorConfig.editorconfig
+D:\Рабочий столо\mydesktop\SB\OOP\OOP\obj\Debug\net6.0\OopExamples.AssemblyInfoInputs.cache
+D:\Рабочий столо\mydesktop\SB\OOP\OOP\obj\Debug\net6.0\OopExamples.AssemblyInfo.cs
+D:\Рабочий столо\mydesktop\SB\OOP\OOP\obj\Debug\net6.0\OopExamples.csproj.CoreCompileInputs.cache
+D:\Рабочий столо\mydesktop\SB\OOP\OOP\obj\Debug\net6.0\OopExamples.dll
+D:\Рабочий столо\mydesktop\SB\OOP\OOP\obj\Debug\net6.0\refint\OopExamples.dll
+D:\Рабочий столо\mydesktop\SB\OOP\OOP\obj\Debug\net6.0\OopExamples.pdb
+D:\Рабочий столо\mydesktop\SB\OOP\OOP\obj\Debug\net6.0\OopExamples.genruntimeconfig.cache
+D:\Рабочий столо\mydesktop\SB\OOP\OOP\obj\Debug\net6.0\ref\OopExamples.dll
